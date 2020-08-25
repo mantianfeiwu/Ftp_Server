@@ -1,5 +1,5 @@
 # 基于Libevent的简易C++多线程Ftp服务器
-环境:Libevent2.1.8  
+开发环境:Libevent2.1.8  VS2017
 使用方法:  
 1.Windows系统下，打开Debug文件，安装setup.exe  
 2.使用Ftp客户端,以明文方式， 匿名，主动模式登录 127.0.0.1 21  
